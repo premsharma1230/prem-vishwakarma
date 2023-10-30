@@ -15,7 +15,9 @@ const Navbar = () => {
         >
           Prem Dev
         </motion.span>
-        <div className="social"> 
+        
+        <div className="social">  
+          <h2 className="text-sm capitalize text-white">Resume</h2> 
           <a href="https://instagram.com/iam_prem_sharma">
             <img src="/instagram.png" alt="" />
           </a>
